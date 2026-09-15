@@ -2,4 +2,6 @@ Local File Sharing for Android is a native Android app that packages [Local File
 
 This app requires Android 16 or higher and is only compatible with arm64-v8a devices
 
+For support or questions, join my discord server: https://discord.gg/8yrbGUCFFD
+
 Licensed under the Apache License 2.0
